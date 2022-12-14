@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className='contenedor-principal' >
-      <h1>Welcome to my landpage</h1>
+      <h1>Welcome to my site</h1>
       <Componente1/>
       </div>
     </div>

@@ -12,7 +12,8 @@ h1 {
     font-family: Lato,sans-serif ;
     font-weight: 700;
     line-height: 1.1;
-    margin: 40px 0
+    margin: 40px 0;
+    align-items: center;
 }
 
 .app {
