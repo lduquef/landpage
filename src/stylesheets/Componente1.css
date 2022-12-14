@@ -15,6 +15,7 @@
     align-items: flex-start;
 }
 .contenedor1-texto{
+    min-width: 300px;
     text-align: center;
     padding: 40px;
     font-family: sans-serif;
@@ -24,6 +25,11 @@
 .nombre {
     font-size: 1.3rem;
     font-weight: 800;
+    transition: font-size 2s .5s;
+}
+.nombre:hover{
+    font-size: 1.6rem;
+    font-weight: 900;
 }
 .cargo-contenedor1{
     font-size: 1.3rem;
