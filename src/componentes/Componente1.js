@@ -1,19 +1,21 @@
 import React from 'react';
 import '../stylesheets/Componente1.css';
-function cajetin(){
+function cajetin(props){
   return (
     <div className='contenedor'>
       <img
         className='imagen'
-        src={require("../imagenes/jorge1.png")}
-        alt='Foto de Jorge1'></img>  
+        src={require(`../imagenes/${props.imagen}.jpg` )}
+        alt= "Foto de jorge " ></img>  
     <div className='contenedor1-texto'>
       <p className='nombre'>
-        Jorge Armando Duque Franco
+      {props.titulo}
       </p>
-      <p className='cargo-contenedor1'>Phd en Matemáticas </p>
+      <p className='cargo-contenedor1'>
+      {props.subtitulo} 
+      </p>
       <p className='texto-contenedor1'>
-
+      {props.parrafo}
       </p>
     </div>
     </div>  
