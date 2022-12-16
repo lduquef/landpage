@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/landpage/static/css/main.7f9f3fc0.css",
-    "main.js": "/landpage/static/js/main.1dcaeb4a.js",
-    "static/media/jorge1.png": "/landpage/static/media/jorge1.f8ae3c39d8b13e0dddc0.png",
+    "main.css": "/landpage/static/css/main.cc65e6c9.css",
+    "main.js": "/landpage/static/js/main.0d37e813.js",
+    "static/media/georgy2.jpg": "/landpage/static/media/georgy2.2e7f594c193c6ebb5a1b.jpg",
+    "static/media/fondo.jpg": "/landpage/static/media/fondo.e5d1a8132acc8fdb07c4.jpg",
+    "static/media/jorge2.jpg": "/landpage/static/media/jorge2.42fb9528660f3e3218f2.jpg",
+    "static/media/georgy4.jpg": "/landpage/static/media/georgy4.7c55c0fa2a3b33584b5f.jpg",
+    "static/media/jorge1.jpg": "/landpage/static/media/jorge1.f8ae3c39d8b13e0dddc0.jpg",
+    "static/media/georgy1.jpg": "/landpage/static/media/georgy1.71640328e324bbf89b59.jpg",
+    "static/media/georgy3.jpg": "/landpage/static/media/georgy3.e31522c11ccbf1ffde46.jpg",
+    "static/media/torta.jpg": "/landpage/static/media/torta.5f59154e5e85cf19dd91.jpg",
     "index.html": "/landpage/index.html",
-    "main.7f9f3fc0.css.map": "/landpage/static/css/main.7f9f3fc0.css.map",
-    "main.1dcaeb4a.js.map": "/landpage/static/js/main.1dcaeb4a.js.map"
+    "main.cc65e6c9.css.map": "/landpage/static/css/main.cc65e6c9.css.map",
+    "main.0d37e813.js.map": "/landpage/static/js/main.0d37e813.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f9f3fc0.css",
-    "static/js/main.1dcaeb4a.js"
+    "static/css/main.cc65e6c9.css",
+    "static/js/main.0d37e813.js"
   ]
 }
